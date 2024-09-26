@@ -1,0 +1,35 @@
+body{
+    background-color: blanchedalmond;
+    font-family: 'Times New Roman', Times, serif;
+}
+h1{
+    background-color: cadetblue;
+    color: beige;
+    padding: 10px;
+    border: 2px solid chocolate;
+    text-align: center;
+}
+
+.contenedor {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    margin: 20px auto;
+    width: 80%;
+}
+
+.imagen{
+    width: 300px;
+    height: 200px;
+    border: 2px solid rgb(48, 106, 177);
+}
+
+p{
+    background-color: burlywood;
+    color: rgb(102, 88, 40);
+    padding: 10px;
+    border: 2px solid rgb(48, 106, 177);
+    width: 60%;
+    text-align: justify;
+    margin: 0;
+}
